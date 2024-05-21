@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,javascript,typescript,html,css,angular,java,postgresql,mysql,mongodb,git,gherkin,cypress,postman&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,typescript,html,css,angular,java,postgresql,mysql,mongodb,git,gherkin,cypress,postman" />
   </a>
 </p>
 
