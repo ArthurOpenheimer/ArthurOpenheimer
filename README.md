@@ -11,7 +11,7 @@
 <br>
   🔬 I'm doing an internship where I work as a QA Tester at <a href="https://inatel.br/home/">INATEL</a>
 <br>
-  🎓 I am currently in my 5th semester studying software engineering at <a href="https://inatel.br/home/">INATEL</a>
+  🎓 I am currently in my 6th semester studying software engineering at <a href="https://inatel.br/home/">INATEL</a>
 <br>
   💻 I love writing code and learning new things about it
 <br>
